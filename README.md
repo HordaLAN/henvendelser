@@ -1,6 +1,6 @@
 # HordaLAN
 
-> <img src="./graphics/hordalan-logo.svg" width="256" height="256">
+> <img src="./i/hordalan-logo.svg" width="256" height="256">
 
 Har du spørsmål eller henvendelser som er tekniske av natur?
 
