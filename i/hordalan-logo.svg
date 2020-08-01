@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="212px" height="300px" viewBox="0 0 210 297" version="1.1" id="svg8" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="test sort HLL.svg">
+  <defs id="defs2">
+    <style id="style10" type="text/css"><![CDATA[
+    .str4 {stroke:#3CAEE3;stroke-width:55.5551}
+    .str2 {stroke:#3CAEE3;stroke-width:69.4449}
+    .str3 {stroke:#3CAEE3;stroke-width:111.11}
+    .str1 {stroke:#3CAEE3;stroke-width:125}
+    .str0 {stroke:#3CAEE3;stroke-width:180.555}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#3CAEE3;fill-rule:nonzero}
+   ]]></style>
+    <style id="style3767" type="text/css"><![CDATA[
+    .str4 {stroke:#3CAEE3;stroke-width:55.5551}
+    .str2 {stroke:#3CAEE3;stroke-width:69.4449}
+    .str3 {stroke:#3CAEE3;stroke-width:111.11}
+    .str1 {stroke:#3CAEE3;stroke-width:125}
+    .str0 {stroke:#3CAEE3;stroke-width:180.555}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#3CAEE3;fill-rule:nonzero}
+   ]]></style>
+    <style id="style150" type="text/css"><![CDATA[
+    .str4 {stroke:#3CAEE3;stroke-width:55.5551}
+    .str2 {stroke:#3CAEE3;stroke-width:69.4449}
+    .str3 {stroke:#3CAEE3;stroke-width:111.11}
+    .str1 {stroke:#3CAEE3;stroke-width:125}
+    .str0 {stroke:#3CAEE3;stroke-width:180.555}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#3CAEE3;fill-rule:nonzero}
+   ]]></style>
+  </defs>
+  <metadata id="metadata5"></metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;fill-opacity:1" id="g228" transform="matrix(0.02539918,0,0,0.02539918,25.058171,40.423089)">
+      <g id="Layer_x0020_1" style="fill:none;fill-opacity:1">
+        <metadata id="CorelCorpID_0Corel-Layer"></metadata>
+        <path id="path155" d="M 6687,3150 V 85 H 90 v 3065 c 0,0 -1,3580 3298,4465 3459,-917 3298,-4465 3298,-4465" class="fil0 str0" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:180.55499268;stroke-opacity:1"></path>
+        <path id="path157" d="m 4421,2644 85,-754 622,-691 -605,283 c 0,0 4,-251 -247,-251 -159,0 -232,119 -232,223 0,133 63,243 287,234 l -237,420 -586,-209 v -572 l 244,147 167,-154 v -259 l -168,-146 -221,117 68,-278 -217,-251 -217,251 68,278 -221,-117 -168,146 v 259 l 167,154 244,-147 v 572 l -586,209 -237,-420 c 225,9 287,-100 287,-234 0,-103 -73,-223 -232,-223 -251,0 -247,251 -247,251 l -605,-283 622,691 92,754" class="fil0 str1" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:125;stroke-opacity:1"></path>
+        <path id="path159" d="m 4421,2637 c 0,162 -464,293 -1035,293 -572,0 -1035,-131 -1035,-293 0,-162 464,-293 1035,-293 572,0 1035,131 1035,293 z" class="fil0 str1" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:125;stroke-opacity:1"></path>
+        <path id="path161" d="m 1369,2660 c 0,0 -515,-515 -539,-539 -24,-24 -24,-63 0,-87 24,-24 63,-24 87,0 18,18 539,539 539,539 z" class="fil1" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"></path>
+        <path id="path163" d="m 1369,2660 c 0,0 -515,-515 -539,-539 -24,-24 -24,-63 0,-87 24,-24 63,-24 87,0 18,18 539,539 539,539 z" class="fil0 str2" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:69.44490051;stroke-opacity:1"></path>
+        <polygon id="polygon165" points="1662,3666 1248,3607 835,3193 1544,2485 1957,2898 2016,3311 " class="fil0 str3" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:111.11000061;stroke-opacity:1"></polygon>
+        <polygon id="polygon167" points="2164,3636 1994,3806 1721,3607 1957,3370 " class="fil0 str3" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:111.11000061;stroke-opacity:1"></polygon>
+        <polygon id="polygon169" points="1795,2647 1750,2691 1544,2485 1588,2441 " class="fil0 str2" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:69.44490051;stroke-opacity:1"></polygon>
+        <polygon id="polygon171" points="1042,3400 997,3444 791,3238 835,3193 " class="fil0 str2" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:69.44490051;stroke-opacity:1"></polygon>
+        <polygon id="polygon173" points="1603,3193 1544,3252 1160,2869 1219,2810 " class="fil0 str3" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:111.11000061;stroke-opacity:1"></polygon>
+        <path id="path175" d="m 924,3105 c 0,0 -515,-515 -539,-539 -24,-24 -24,-63 0,-87 24,-24 63,-24 87,0 18,18 539,539 539,539 z" class="fil1" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"></path>
+        <path id="path177" d="m 924,3105 c 0,0 -515,-515 -539,-539 -24,-24 -24,-63 0,-87 24,-24 63,-24 87,0 18,18 539,539 539,539 z" class="fil0 str2" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:69.44490051;stroke-opacity:1"></path>
+        <polygon id="polygon179" points="2032,3768 2115,3685 4822,6392 4739,6476 " class="fil1" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"></polygon>
+        <polygon id="polygon181" points="2032,3768 2115,3685 4822,6392 4739,6476 " class="fil0 str2" style="fill:#00000a;fill-opacity:0.96231157;fill-rule:nonzero;stroke:#000000;stroke-width:69.44490051;stroke-opacity:1"></polygon>
+        <polygon id="polygon183" points="5976,2155 6356,2534 5945,2945 5565,2565 " class="fil0 str3" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:111.11000061;stroke-opacity:1"></polygon>
+        <path id="path185" d="m 5107,3792 c 89,-26 149,34 149,34 l 785,-785 -573,-573 -785,785 c 0,0 60,60 34,149 -28,97 -94,161 -94,161 l 2,2 319,319 2,2 c 0,0 64,-66 161,-94 z" class="fil0 str3" inkscape:connector-curvature="0" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:111.11000061;stroke-opacity:1"></path>
+        <polygon id="polygon187" points="6123,2767 5990,2634 6052,2572 6185,2705 " class="fil0 str4" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:55.55509949;stroke-opacity:1"></polygon>
+        <polygon id="polygon189" points="5881,2526 5743,2388 5805,2326 5943,2464 " class="fil0 str4" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:55.55509949;stroke-opacity:1"></polygon>
+        <polyline id="polyline191" points="6158,2337 6073,2422 6113,2462 6053,2522 6013,2482 5894,2602 5934,2641 5874,2701 5834,2661 5748,2748 " class="fil0 str4" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:55.55509949;stroke-opacity:1"></polyline>
+        <polygon id="polygon193" points="4742,3681 4825,3765 2115,6476 2032,6392 " class="fil1" style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"></polygon>
+        <polygon id="polygon195" points="4742,3681 4825,3765 2115,6476 2032,6392 " class="fil0 str2" style="fill:#00000a;fill-opacity:0.96231157;fill-rule:nonzero;stroke:#000000;stroke-width:69.44490051;stroke-opacity:1"></polygon>
+      </g>
+    </g>
+  </g>
+</svg>
