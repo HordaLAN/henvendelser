@@ -1,4 +1,4 @@
-# HordaLAN
+# HordaLAN Dataforening
 
 > <img src="./i/hordalan-logo.svg" width="256" height="256">
 
@@ -8,4 +8,4 @@ Opprett en [sak](https://github.com/HordaLAN/henvendelser/issues/new) og så vil
 
 ---
 
-<sup>1</sup> <sub>Software og IT-systemer innad i HordaLAN driftes av [`Tech: Ops`](https://hordalan.tech/ops).</sub>
+<sup>1</sup> <sub>Software og IT-systemer innad i HordaLAN driftes internt.
